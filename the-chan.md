@@ -1,4 +1,5 @@
 # Bits-n-Chips
+<pre>
 ---------------------------------------------------------
   ____  _ _               _    _____ _     _           
  |  _ \(_) |             ( )  / ____| |   (_)          
@@ -40,3 +41,4 @@ basis of there technical skill and empathy rather than there oposite
 
 we welcome new frinds an old
 swordsie ^_^ 
+</pre>
